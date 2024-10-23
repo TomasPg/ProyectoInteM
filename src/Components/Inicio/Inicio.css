@@ -1,0 +1,27 @@
+.margin-custom-top{
+    margin-top: 6%;
+}
+
+.form{
+    background-color: #4271ff;
+    margin-top: 3%;
+    border: 5px solid #320eff;
+    color: white;
+    border-radius: 10px;
+    padding-top: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all .5s;
+}
+.form:hover{
+    border: 6px solid black;
+}
+
+.title1{
+    color: #4271ff;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}

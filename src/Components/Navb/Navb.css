@@ -1,0 +1,34 @@
+#navb {
+    background-color: #4271ff;
+    padding: 10px 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-bottom: 2px solid white;
+}
+
+#navb .nav-link {
+    color: white;
+}
+
+#navb .navbar-brand{
+    color: white;
+}
+#navb .text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    transition: all .5s;
+}
+#navb .text:hover{
+    color: rgb(0, 0, 0);
+}
+
+#navb .title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    transition: all .5s;
+}
+#navb .title:hover{
+    color: rgb(0, 0, 0);
+}

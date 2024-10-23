@@ -1,0 +1,24 @@
+.title{
+    color: #4271ff;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.ingresos {
+    margin-top: 10%;
+}
+.imagen{
+    box-shadow: 100px black;
+}
+.imagen img{
+    border-radius: 100px;
+    position: absolute;
+    margin-left: 10%;
+    transition: all .5s;
+    
+}
+.imagen img:hover{
+    border-radius: 230px;
+    box-shadow: 100px;
+    box-shadow: 0 20px 10px rgb(187, 185, 185);
+}
